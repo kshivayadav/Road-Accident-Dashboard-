@@ -4,8 +4,8 @@
 This project is an **INTERACTIVE EXCEL DASHBOARD** built to analyze and visualize **ROAD ACCIDENT DATA** across multiple dimensions such as severity, vehicle types, road conditions, and trends.  
 The dashboard provides **ACTIONABLE INSIGHTS** that can help road safety authorities, policymakers, and transport planners reduce accidents and casualties.
 
-
-
+![Dashboard Screenshot](https://github.com/kshivayadav/Road-Accident-Dashboard-/blob/5547e9913afe7c01690b94eaa2a204756e4c019d/Road_Accident_Dashboard.png
+)
 ## 🎯 Key Features
 - **Primary KPIs**: Total, Fatal, Serious, Slight casualties  
 - **Secondary KPIs**: Casualties by vehicle type  
