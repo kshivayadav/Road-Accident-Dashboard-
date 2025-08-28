@@ -14,8 +14,7 @@ The dashboard provides **ACTIONABLE INSIGHTS** that can help road safety authori
 - **Area-wise (Urban vs Rural) & Light Condition Analysis**  
 - **Interactive Filters (Slicers)** for Year, Weather, and Wind Conditions  
 - **Navigation Buttons**:  
-  - ![Database Icon]<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e20049d-9452-4662-a45a-4c6eadd88d6a" />
- *Database icon* → Navigate to Pivot Tables sheet  
+  - 🛢️ *Database icon* → Navigate to Pivot Tables sheet  
   - 📊 *Dashboard icon* → Return to Dashboard sheet  
   - ✅ Makes the Excel file behave like a **mini BI application**  
 
